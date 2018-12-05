@@ -1,7 +1,7 @@
-# CADi Data Visualization
+# CADI Data Visualization
 
 
-![](../media/chord_ATSB.png)
+![](./media/chord_ATSB.png)
 
 Added an images
 
